@@ -66,6 +66,8 @@ The system is composed of the following components:
    python app.py  
    ```  
 
+![img](https://github.com/user-attachments/assets/5e5013f7-aa61-4387-b678-11e6f862c66c)
+
 ## Usage  
 - Upload a dataset of job postings in CSV format.  
 - The system will preprocess and classify postings as legitimate or fraudulent.  
